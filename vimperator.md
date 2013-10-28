@@ -17,3 +17,9 @@ Getting help
 
 Open a new tab with 't' and then <Enter>.  Then type :help for a specific
 help item or :helpall for the complete help all in one web page.
+
+Increasing, decreasing window size
+----------------------------------
+
+Mod4+h: decrease master window size by 5%
+Mod4+l: increase master window size by 5%
