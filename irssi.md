@@ -40,3 +40,8 @@ To accept this request one uses the following command:
 To add people to the roster, use this command:
 
     /presence subscribe <user>@jabber.ccc.de
+
+Adding a user to a group
+------------------------
+
+    /roster group <user>@jabber.ccc.de <group_name>
