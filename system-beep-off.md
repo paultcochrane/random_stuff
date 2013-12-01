@@ -16,4 +16,4 @@ In X11
 
     xset b off
 
-http://www.debian-administration.org/articles/110
+<http://www.debian-administration.org/articles/110>
