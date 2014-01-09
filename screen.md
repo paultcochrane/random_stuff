@@ -18,3 +18,6 @@
 `C-a Q`
     Make current region only region (windows stay open, but have to be
     switched to with `C-a <window-name>`
+
+`C-a A`
+    Set a title for the current window
