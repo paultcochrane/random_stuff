@@ -21,3 +21,9 @@
 
 `C-a A`
     Set a title for the current window
+
+`C-a >`
+    Write paste buffer to a file
+
+`C-a <`
+    Reads the screen-exchange file into the paste buffer
