@@ -42,3 +42,13 @@ becomes this:
     TryExec=awesome
     Exec=awesome
     Type=Application
+
+## Resize windows
+
+Although it might sound silly to need to resize windows in a tiling window
+manager, sometimes this is necessary.  Choose a mode which *doesn't*
+involve automatically sizing everything maximally, then use `Mod4-Button3`
+(right click) to resize the window.  One can also use `Mod4-h` (smaller), or
+`Mod4-l` (larger) in some modes.  Try `Mod4-Shift-h` (smaller),
+`Mod4-Shift-l` if that doesn't work.  The tips were found on the ["my first
+awesome"](https://awesome.naquadah.org/wiki/My_first_awesome) page.
